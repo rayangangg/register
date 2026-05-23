@@ -3,6 +3,6 @@
     "username": "rayangangg"
   },
   "records": {
-    "CNAME": "ahmedzarir.great-site.net"
+    "A": ["76.76.21.21"]
   }
 }
